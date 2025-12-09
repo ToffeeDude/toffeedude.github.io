@@ -4,7 +4,8 @@
   border-radius: 15px;
   padding: 20px;
   text-shadow: 2px 2px 4px #000000;
+  margin-bottom: 10px;
 }
-h1, p {
+h1, h2, p {
   font-family: Trebuchet MS,Georgia,Arial,serif;
 }
