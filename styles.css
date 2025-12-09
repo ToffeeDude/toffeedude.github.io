@@ -1,7 +1,9 @@
 .green {
   background-color: darkgreen;
   color: white;
-  Border-radius: 25px;
+  border-radius: 15px;
+  padding: 20px;
+  text-shadow: 2px 0px black;
 }
 h1, p {
   font-family: Trebuchet MS,Georgia,Arial,serif;
