@@ -3,7 +3,7 @@
   color: white;
   border-radius: 15px;
   padding: 20px;
-  text-shadow: 2px 0px black;
+  text-shadow: 2px 2px 4px #000000;
 }
 h1, p {
   font-family: Trebuchet MS,Georgia,Arial,serif;
