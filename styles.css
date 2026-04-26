@@ -1,6 +1,8 @@
+body {
+  background-image:url(https://thumbs.dreamstime.com/b/green-tea-plantations-cameron-highlands-malaysia-landscape-65484876.jpg);
+} 
 .green {
   background:rgba(1, 50, 32, 0.75);
-  background-image:url(https://thumbs.dreamstime.com/b/green-tea-plantations-cameron-highlands-malaysia-landscape-65484876.jpg);
   border-top: 6px solid rgba(0, 89, 56, 0.5);
   border-bottom: 6px solid rgba(1, 33, 21, 0.5);
   border-left: 6px solid rgba(0, 89, 56, 0.5);
