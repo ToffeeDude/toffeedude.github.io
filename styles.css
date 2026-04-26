@@ -1,5 +1,9 @@
 .green {
-  background-color: darkgreen;
+  background:rgba(1, 50, 32, 0.75);
+  border-top: 6px solid rgba(0, 89, 56, 0.5);
+  border-bottom: 6px solid rgba(1, 33, 21, 0.5);
+  border-left: 6px solid rgba(0, 89, 56, 0.5);
+  border-right: 6px solid rgba(1, 33, 21, 0.5);
   color: white;
   border-radius: 15px;
   padding: 20px;
